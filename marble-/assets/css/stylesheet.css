@@ -1,0 +1,297 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+ul,
+ol{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+img{
+    vertical-align: middle;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+p{
+    color: #4e4e4e;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'roboto';
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    color: #4e4e4e;
+}
+
+/*common css ends*/
+
+/* navigation css stars */
+
+.nav_main{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.navbar-brand{
+    margin: 0;
+    color: #4e4e4e;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.navbar-brand:hover{
+    color: #4e4e4e;
+}
+.navbar_nav{
+    display: flex;
+}
+.nav-link{
+    margin: 10px;
+    transition: .4s;
+    color: #4e4e4e;
+    font-size: 16px;
+    font-weight: 600;
+}
+.nav-link:focus, .nav-link:hover{
+    color: #1abb9c;
+}
+
+/* navigation css ends */
+
+/* hero css starts */
+
+.hero{
+    background: url(../image/herobg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero_con h3{
+    font-size: 40px;
+    font-weight: bold;
+    color: #f3f3f3;
+}
+.hero_con h4{
+    font-weight: bold;
+    padding: 35px 0;
+    color: #a8a8a8;
+}
+.hero_con button{
+    transition: .4s;
+    background: #3f8dbf;
+    color: #f3f3f3;
+    padding: 15px;
+    border: none;
+}
+.hero_con button:hover{
+    background-color: #1abb9c;
+}
+.hero_con{
+    font-family: 'roboto slab';
+    padding: 200px 0;
+}
+
+/* hero css ends */
+
+
+/* about css starts */
+
+.about{
+    overflow-x: hidden;
+    margin: 60px;
+}
+.about_con{
+    margin: 0 20px;
+}
+.about_con h5{
+    padding-bottom: 5px;
+    font-family: 'roboto slab';
+    font-weight: bold;
+    font-size: 18px;
+}
+.about_con p{
+    color: #616161;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.about_icon1{
+    margin-bottom: 20px;
+    text-align: center;
+    line-height: 100px;
+    background: #9d9abf;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+}
+.about_icon2{
+    margin-bottom: 20px;
+    text-align: center;
+    line-height: 100px;
+    background: #d2514b;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+}
+.about_icon3{
+    margin-bottom: 20px;
+    text-align: center;
+    line-height: 100px;
+    background: #66a3c6;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+}
+.about_icon4{
+    margin-bottom: 20px;
+    text-align: center;
+    line-height: 100px;
+    background: #e8c04f;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+}
+
+/* about css ends */
+
+hr.solid {
+    border-top: 3px solid #bbb;
+  }
+
+/* journal css ends */
+
+.journal{
+    overflow: hidden;
+    margin: 60px 0;
+}
+.j_head{
+    margin-bottom: 20px;
+}
+.j_head h5{
+    font-family: 'roboto condensed';
+    font-weight: bold;
+}
+.j_con h5{
+    font-family: 'roboto slab';
+
+}
+.j_con h6{
+    padding-bottom: 10px;
+    color: #d0d0d0;
+    font-family: 'roboto slab';
+}
+.j-con p{
+    font-family: 'roboto';
+}
+
+/* journal css ends */
+
+/* comment css starts */
+.comment{
+    background: #efefef;
+}
+.com_main h1{
+    margin-bottom: 0;
+    color: #a1a1a1;
+    font-family: 'roboto slab';
+    font-size: 80px;
+}
+.com_main p{
+    color: #a1a1a1;
+    font-family: 'roboto slab';
+    font-size: 20px;
+}
+.com_main{
+    padding: 30px 25% 60px;
+}
+/* comment css ends */
+
+/* contact css starts */
+.contact{
+    padding: 60px 0 30px;
+    background: #1e1e1e;
+}
+.contact_head h5{
+    margin-bottom: 20px;
+    font-family: 'roboto condensed';
+    color: #6c6c6c;
+    font-weight: bold;
+}
+.contact_con p{
+    font-family: 'roboto';
+    color: #9f9f9f;
+}
+.contact_con ul li{
+    font-family: 'roboto';
+    color: #9f9f9f;
+    margin: 10px 0;
+}
+.contact_con ul li p{
+    padding: 0;
+}
+.contact_con ul li i{
+    color: #a79574;
+    line-height: 28px;
+    margin-right: 10px;
+}
+/* contact css ends */
+footer p{
+    color: #9f9f9f;
+    font-size: small;
+}
+.bars{
+    display: none;
+}
+.back_top{
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    display: none;
+}
+.back_top button{
+    color: #4e4e4e;
+    background-color: #1abb9c;
+    width: 40px;
+    height: 40px;
+    border: 0;
+    border-radius: 20%;
+}
+
+
+
+
+
+
+
+@media (max-width: 991.98px) {
+    .nav_link{
+        position: relative;
+    }
+    .navbar_nav{
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background-color: white;
+        width: 100%;
+    }
+    .bars{
+        text-align: center;
+        font-size: 20px;
+        padding: 5px 10px;
+        border: 1px solid black;
+        display: block;
+    }
+}

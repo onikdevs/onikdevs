@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 41" width="27" height="41">
+	<title>02-MARBEL</title>
+	<defs>
+		<image  width="27" height="41" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAApCAMAAADzuKLBAAAAAXNSR0IB2cksfwAAAVNQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////srKyhIODoaCg8/PzycjIiomJjIuL////////r66uhYSEkI+PhoWFg4KCkZCQiIeH/////////f39trW13Nzc////////////9fX19fX11dXVvr29+Pj48fHx8PDw8/Pz8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDwvby8mJeX3t7eqqmpn56e8PDw8PDwgYCAgYCAgYCAgYCAgYCAgYCAgYCAgYCAgYCAgYCAjSijfwAAAHF0Uk5TAAILEhYJIk9wc2xIGBdbTg0xcWsgOictGxFvZQZSPG4HQ2RmBFpRKRQDZ1Urcq33w3qX6uY7X7D13vP43e4BXnSph1BcBau52PdZ0P9GpBiE+GTYRLgkmAb+eORYxDhMl8p7rr9wDnD/ILDgafAepdJxSoScAAABOklEQVR4nJ3SR1fCQBAH8IGAuCpGsaCIJqIo2Btiw66x995jjSXq9z9JNskm2XLxf5j3dn+H3TczACShsBSJSFFgUxGrRDhV1TVBidciX+Q6H9UnUCANjYSaEJ1Es0NJhsrYgqk1xTHUlrasnUcIdVhf5BNSVIBOgaEkQEZkMoREhLogLTQE6j+tW0gKgCKyLECPyMqN6RVZDiDfx6d+q9cDXBqM4yE5Lw4Nj4yOjU84VrBnq07iU3FqemZ2rmSTPO8MPrqArbS4tFy0LZYnCxPOYHMLWvEIIJfy2+paYEELfpOCyyv5LEvv/Lq2salpuGzRtr1Dskvbnmf7tB0QOqQJjogdM3ZC7JSxM2LnjF1cunbFGFy7dsParWt3rN0/6Prjk/788soavBnG+4fxyRGAL9P8/jF/vYs/iFpM48FqUswAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+	</style>
+	<g id="Service">
+		<use id="Layer 3" href="#img1" x="0" y="0"/>
+	</g>
+</svg>
